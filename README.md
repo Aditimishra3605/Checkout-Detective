@@ -42,7 +42,7 @@ The project uses an e-commerce event dataset containing information related to v
 
 The dataset was used to investigate different stages of the shopping journey, including product views, add-to-cart activities, and completed transactions.
 
-**Original Dataset Source:** [Insert your original Kaggle dataset link here]
+**Original Dataset Source:** [https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset]
 
 The original dataset is approximately 92 MB. Since GitHub has file upload size restrictions, a smaller sample dataset named `events_sample.csv` is included in this repository for reference.
 
